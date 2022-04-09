@@ -1,0 +1,21 @@
+0
+
+0
+Load A of Variable 0 : 0.00
+Load B of Variable 0 : 0.00
+Load C of Variable 0 : 0.00
+Load A of Variable 1 : 0.00
+Load B of Variable 1 : 0.00
+Load C of Variable 1 : 0.00
+Load A of Variable 2 : 0.00
+Load B of Variable 2 : 0.00
+Load C of Variable 2 : 0.00
+Load A of Variable 3 : 0.00
+Load B of Variable 3 : 0.00
+Load C of Variable 3 : 0.00
+Load A of Variable 4 : 0.00
+Load B of Variable 4 : 0.00
+Load C of Variable 4 : 0.00
+Load A of Variable 5 : 0.00
+Load B of Variable 5 : 0.00
+Load C of Variable 5 : 0.00

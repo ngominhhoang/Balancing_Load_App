@@ -1,0 +1,38 @@
+{% extends "public/templates/public_template.html" %}
+
+{% block title %}Upload{% endblock %}
+
+{% block main %}
+
+<div class="container">
+  <div class="row">
+    <div class="col">
+
+      <h1>Upload an csv file</h1>
+      <hr>
+
+      <form action="/upload-file" method="POST" enctype="multipart/form-data">
+
+        <div class="form-group">
+          <label>Select file</label>
+          <div class="custom-file">
+            <input type="file" class="custom-file-input" name="image" id="image">
+          </div>
+        </div>
+        
+        <button type="submit" class="btn btn-primary">Upload</button>
+        <p></p>
+        <div class="form-group">
+          <label>Result: </label>
+          <div class="announce-result">
+              <input type="hidden" id="fname" name="fname"><br><br>
+          </div>
+        </div>
+
+      </form>
+
+    </div>
+  </div>
+</div>
+
+{% endblock %}
